@@ -1,0 +1,8 @@
+__pycache__/
+env/
+results/discovered_states/*
+results/failed_actions/*
+reports/*
+dfa
+env_states
+qtable
